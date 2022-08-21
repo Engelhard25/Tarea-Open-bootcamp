@@ -4,7 +4,6 @@
   "description": "Tarea para Openbootcamp mi primer proyecto en js",
   "main": "index.js",
   "scripts": {
-    "saludo": "Hola, este es mi primer ejercicio con node en el mejor bootcamp de programacion del mundo",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
